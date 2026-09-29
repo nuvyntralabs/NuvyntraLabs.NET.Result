@@ -4,6 +4,8 @@ Return a success value or a typed error without throwing.
 
 **Version:** 0.1.1. Not published to nuget.org yet. Do not `dotnet nuget push` from a local clone.
 
+Docs: https://nuvyntralabs.github.io/packages/nuvyntralabs-net-result/
+
 ```bash
 dotnet add package NuvyntraLabs.NET.Result
 ```
